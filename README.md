@@ -1,6 +1,6 @@
 # stuffledger_research_contest_school
 
-jeju science high school research contest / make dapp with ethereum
+jeju science high school research / make dapp with ethereum
 
 제주과학고등학교 2019 과제연구 
 Constructing a System Managing Objects for Public Use with Blockchain Technology
