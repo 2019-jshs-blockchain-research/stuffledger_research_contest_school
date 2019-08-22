@@ -1,0 +1,82 @@
+[
+  {
+    "id": 10,
+    "type": "HTC Vive",
+    "picture": "images/0.jpg",
+    "area": "VR 체험실",
+    "count": 2,
+    "price": 0.0005
+  },
+  {
+    "id": 11,
+    "type": "X선 형광분석기",
+    "picture": "images/1.jpg",
+    "area": "물리실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 12,
+    "type": "천체망원경",
+    "picture": "images/2.jpg",
+    "area": "망원경실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 13,
+    "type": "HLPC",
+    "picture": "images/3.jpg",
+    "area": "화학실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 14,
+    "type": "회전진공원심농축기",
+    "picture": "images/4.jpg",
+    "area": "화학실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 15,
+    "type": "비색계",
+    "picture": "images/5.jpg",
+    "area": "물리실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 16,
+    "type": "착순판정카메라",
+    "picture": "images/6.jpg",
+    "area": "물리실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 17,
+    "type": "도립현미경",
+    "picture": "images/7.jpg",
+    "area": "생물실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 18,
+    "type": "주사전자현미경",
+    "picture": "images/8.jpg",
+    "area": "생물실험실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 19,
+    "type": "레이저커터기",
+    "picture": "images/9.jpg",
+    "area": "무한상상실",
+    "count": 1,
+    "price": 0.0005
+  }
+]

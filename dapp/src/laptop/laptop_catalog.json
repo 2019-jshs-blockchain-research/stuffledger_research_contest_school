@@ -1,0 +1,82 @@
+[
+  {
+    "id": 20,
+    "type": "노트북1",
+    "picture": "images/0.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 21,
+    "type": "노트북2",
+    "picture": "images/1.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 22,
+    "type": "노트북3",
+    "picture": "images/2.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 23,
+    "type": "노트북4",
+    "picture": "images/3.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 24,
+    "type": "노트북5",
+    "picture": "images/4.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 25,
+    "type": "노트북6",
+    "picture": "images/5.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 26,
+    "type": "노트북7",
+    "picture": "images/6.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 27,
+    "type": "노트북8",
+    "picture": "images/7.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 28,
+    "type": "노트북9",
+    "picture": "images/8.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 29,
+    "type": "노트북10",
+    "picture": "images/9.jpg",
+    "area": "멀티미디어실",
+    "count": 1,
+    "price": 0.0005
+  }
+]

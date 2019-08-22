@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "type": "카메라",
+    "picture": "images/0.jpg",
+    "area": "심화기가재실",
+    "count": 1,
+    "price": 0.0005
+  },
+  {
+    "id": 1,
+    "type": "PH 측정기",
+    "picture": "images/1.jpg",
+    "area": "화학실험실",
+    "count": 11,
+    "price": 0.0005
+  },
+  {
+    "id": 2,
+    "type": "양면테이프",
+    "picture": "images/2.jpg",
+    "area": "화학실험실",
+    "count": 3,
+    "price": 0.0005
+  },
+  {
+    "id": 3,
+    "type": "줄자",
+    "picture": "images/3.jpg",
+    "area": "무한상상실",
+    "count": 2,
+    "price": 0.0005
+  },
+  {
+    "id": 4,
+    "type": "가위",
+    "picture": "images/4.jpg",
+    "area": "무한상상실",
+    "count": 11,
+    "price": 0.0005
+  },
+  {
+    "id": 5,
+    "type": "유산지",
+    "picture": "images/5.jpg",
+    "area": "화학실험실",
+    "count": 9,
+    "price": 0.0005
+  },
+  {
+    "id": 6,
+    "type": "보안경",
+    "picture": "images/6.jpg",
+    "area": "화학실험실",
+    "count": 10,
+    "price": 0.0005
+  },
+  {
+    "id": 7,
+    "type": "마스크",
+    "picture": "images/7.jpg",
+    "area": "화학실험실",
+    "count": 7,
+    "price": 0.0005
+  },
+  {
+    "id": 8,
+    "type": "라텍스장갑",
+    "picture": "images/8.jpg",
+    "area": "화학실험실",
+    "count": 4,
+    "price": 0.0005
+  },
+  {
+    "id": 9,
+    "type": "비커",
+    "picture": "images/9.jpg",
+    "area": "화학실험실",
+    "count": 2,
+    "price": 0.0005
+  }
+]
